@@ -174,14 +174,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Ahmed Faruk**
 - GitHub: [@ahmedfarukons](https://github.com/ahmedfarukons)
 
-## 🙏 Acknowledgments
-
-- Built with .NET 8.0 and Windows Forms
-- Inspired by real-world antivirus solutions
-- Created for educational purposes
-
----
-
 **⚠️ Disclaimer**: This software is for educational purposes only. It is not intended to replace professional antivirus solutions.
 
 ---
@@ -365,35 +357,10 @@ Sonuç: TestVirus.txt tespit edildi!
 Tespit edilen dosya → "Karantinaya Al"
 Dosya: %APPDATA%\AntivirusApp\Quarantine\{GUID}.vir
 ```
-
----
-
-## 🔧 Geliştirme Fikirleri
-
-Projeyi geliştirmek için:
-
-- [ ] Heuristic (davranış tabanlı) analiz ekleme
-- [ ] Cloud-based imza veritabanı
-- [ ] Otomatik imza güncelleme
-- [ ] Tarama hızı optimizasyonu
-- [ ] Detaylı log sistemi
-- [ ] Beyaz liste (whitelist) desteği
-- [ ] Çoklu dil desteği
-- [ ] Sistem tepsisi (system tray) entegrasyonu
-
 ---
 
 ## 📝 Lisans
 
 Bu proje eğitim amaçlıdır. Ticari kullanım için uygun değildir.
-
----
-
-## 👨‍💻 Geliştirici Notları
-
-**Proje Tarihi**: 01 Ocak 2026
-**Framework**: .NET 8.0
-**UI**: Windows Forms
-**Dil**: C#
 
 **Önemli**: Bu bir eğitim projesidir. Gerçek dünya kullanımı için profesyonel antivirüs çözümleri kullanılmalıdır.
