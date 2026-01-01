@@ -397,9 +397,3 @@ Bu proje eğitim amaçlıdır. Ticari kullanım için uygun değildir.
 **Dil**: C#
 
 **Önemli**: Bu bir eğitim projesidir. Gerçek dünya kullanımı için profesyonel antivirüs çözümleri kullanılmalıdır.
-
----
-
-## 🎉 Başarıyla Tamamlandı!
-
-Artık kendi antivirüs yazılımınız var! İyi çalışmalar! 🚀
